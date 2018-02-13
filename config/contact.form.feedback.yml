@@ -1,0 +1,14 @@
+uuid: 62062810-e0f9-439d-bc32-707fa014b02d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - erik@getpantheon.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
